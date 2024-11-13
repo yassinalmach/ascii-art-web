@@ -8,11 +8,6 @@ The web application is built using Go for the server-side implementation and HTM
 1. `GET /`: Serves the main page, which includes the user interface for entering text and selecting the banner style. and the result of the art
 2. `POST /ascii-art`: Receives the user's text input and banner style, generates the ASCII art using the selected banner, and returns the result to the client.
 
-## Authors
-
-- [Your Name 1]
-- [Your Name 2]
-
 ## Usage
 To run the ASCII-Art-Web application, follow these steps:
 
